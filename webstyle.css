@@ -1,0 +1,15 @@
+.wrap-grey-box{
+	background : grey;
+}
+*{
+	font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+p.ex1 {
+	margin-bottom: 10px;
+}
+
+.mytitle > button {
+	margin: 0 0 20px 0;
+}
